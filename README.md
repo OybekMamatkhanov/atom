@@ -1,5 +1,5 @@
 # Atom Framework
-[![SensioLabsInsight](https://insight.sensiolabs.com/projects/af681361-67b8-4fd9-b2ab-e7645c2bb63f/mini.png)](https://insight.sensiolabs.com/projects/af681361-67b8-4fd9-b2ab-e7645c2bb63f)
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/af681361-67b8-4fd9-b2ab-e7645c2bb63f/big.png)](https://insight.sensiolabs.com/projects/af681361-67b8-4fd9-b2ab-e7645c2bb63f)
 
 ## Installation
 
